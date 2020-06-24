@@ -1,0 +1,23 @@
+{
+  "name": "autoSetPort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitrist/SmartSetPort.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitrist/SmartSetPort/issues"
+  },
+  "homepage": "https://github.com/gitrist/SmartSetPort#readme",
+  "devDependencies": {
+    "chalk": "^4.1.0"
+  }
+}
